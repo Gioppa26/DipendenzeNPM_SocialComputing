@@ -1,1 +1,0 @@
-# DipendenzeNPM_SocialComputing
